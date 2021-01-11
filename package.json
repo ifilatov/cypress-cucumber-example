@@ -28,5 +28,8 @@
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
+  },
+  "devDependencies": {
+    "cypress-terminal-report": "^2.4.0"
   }
 }
